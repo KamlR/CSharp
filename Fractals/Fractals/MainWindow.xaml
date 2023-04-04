@@ -1,0 +1,33 @@
+﻿<Window x:Class="Fractals.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Fractals"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Выбор фрактала" MaxHeight="600" MaxWidth="850" MinHeight="600" MinWidth="850">
+
+    <Grid Background="#FFEFD5" Name="grid">
+        <Viewbox>
+            <Border  Margin="15" Background="white"  VerticalAlignment="Center" Padding="40" MaxWidth="550" CornerRadius="20">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="30" Color="LightBlue" ShadowDepth="7"></DropShadowEffect>
+            </Border.Effect>
+            <StackPanel>
+                <TextBlock Text="Фракталы" FontSize="30" FontWeight="Bold" Margin="0 0 0 10"/>
+                <TextBlock Text="Выберите нужный Вам рисунок" FontSize="20" FontWeight="SemiBold" Margin="0 10 10 10"/>
+
+                <Grid Margin="0 0 0 100" Width="459" Height="200">
+                    <Button HorizontalAlignment="Left" Content="Дерево" Background="#DDA0DD" Width="85" Margin="10,29,0,139" Click="Tree_Click"></Button>
+                    <Button HorizontalAlignment="Left" Content="Кривая Коха" Margin="317,29,0,139" Click="TheKochCurve_Click"></Button>
+                    <Button HorizontalAlignment="Left" Content="Ковёр Cерпинского" Margin="135,68,0,100" Cursor="Hand" Click="Carpet_Click"></Button>
+                    <Button HorizontalAlignment="Left" Content="Треугольник Серпинского" Margin="241,124,0,44" Click="Triangle_Click" ></Button>
+                    <Button HorizontalAlignment="Left" Content="Множество Кантора" Margin="4,128,0,40" Click="CantorSet_Click" Cursor="Hand" ></Button>
+                </Grid>
+
+            </StackPanel>
+            </Border>
+        </Viewbox>
+    </Grid>
+</Window>

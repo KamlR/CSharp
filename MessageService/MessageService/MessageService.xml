@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MessageService</name>
+    </assembly>
+    <members>
+        <member name="T:MessageService.Controllers.MessageController">
+            <summary>
+            Класс, предназначенный для работы с сообщениями пользователей.
+            </summary>
+        </member>
+        <member name="F:MessageService.Controllers.MessageController.messages">
+            <summary>
+            Список пользователей, который предоставляет возможность промежуточного хранения данных.
+            Между сериализацией и десериализацией.
+            </summary>
+        </member>
+        <member name="F:MessageService.Controllers.MessageController.users">
+            <summary>
+            Список сообщений, который предоставляет возможность промежуточного хранения данных.
+            Между сериализацией и десериализацией.
+            </summary>
+        </member>
+        <member name="M:MessageService.Controllers.MessageController.Get(System.String,System.String)">
+            <summary>
+            Получение всех сообщений между конкретным отправителем и получателем.
+            </summary>
+            <param name="senderId"> Email отправителя </param>
+            <param name="receiverId"> Email получателя </param>
+            <returns> определяет контракт, представляющий результат метода действия </returns>
+        </member>
+        <member name="M:MessageService.Controllers.MessageController.GetSenderMessages(System.String)">
+            <summary>
+            Все сообщения, отправленные конкретным пользователем.
+            </summary>
+            <param name="senderId"> Email отправителя </param>
+            <returns> определяет контракт, представляющий результат метода действия </returns>
+        </member>
+        <member name="M:MessageService.Controllers.MessageController.GetReceiverMessages(System.String)">
+            <summary>
+            Все сообщения, полученные конкретным пользователем.
+            </summary>
+            <param name="receiverId">Email получателя </param>
+            <returns> определяет контракт, представляющий результат метода действия </returns>
+        </member>
+        <member name="M:MessageService.Controllers.MessageController.Post(MessageService.Models.MessageOfUser)">
+            <summary>
+            Добавление нового сообщения.
+            </summary>
+            <param name="messageInfo">вся информация о сообщении </param>
+            <returns> определяет контракт, представляющий результат метода действия </returns>
+        </member>
+        <member name="T:MessageService.Controllers.UserController">
+            <summary>
+            Класс, предназначенный для работы с информацией о пользователях.
+            </summary>
+        </member>
+        <member name="F:MessageService.Controllers.UserController.random">
+            <summary>
+            Объект класса Random для генерации псевдослучайных символов.
+            </summary>
+        </member>
+        <member name="F:MessageService.Controllers.UserController.users">
+            <summary>
+            Список пользователей, который предоставляет возможность промежуточного хранения данных.
+            Между сериализацией и десериализацией.
+            </summary>
+        </member>
+        <member name="F:MessageService.Controllers.UserController.messages">
+            <summary>
+            Список сообщений, который предоставляет возможность промежуточного хранения данных.
+            Между сериализацией и десериализацией.
+            </summary>
+        </member>
+        <member name="M:MessageService.Controllers.UserController.Post">
+            <summary>
+            Генерация списка сообщений и пользователей.
+            </summary>
+            <returns> определяет контракт, представляющий результат метода действия </returns>
+        </member>
+        <member name="M:MessageService.Controllers.UserController.Post(MessageService.Models.User)">
+            <summary>
+            Добавление нового пользователя.
+            </summary>
+            <param name="user"> ссылка на объект типа User</param>
+            <returns> определяет контракт, представляющий результат метода действия </returns>
+        </member>
+        <member name="M:MessageService.Controllers.UserController.Get">
+            <summary>
+            Получение списка пользователей.
+            </summary>
+            <returns> определяет контракт, представляющий результат метода действия </returns>
+        </member>
+        <member name="M:MessageService.Controllers.UserController.Get(System.String)">
+            <summary>
+            Получение инфомации о пользователе по его Email.
+            </summary>
+            <param name="email"> Email пользователя</param>
+            <returns> определяет контракт, представляющий результат метода действия </returns>
+        </member>
+        <member name="M:MessageService.Controllers.UserController.GetByIndexAndLength(System.Int32,System.Int32)">
+            <summary>
+            Получение информации о заданном кол-ве пользователей, начиная с определённого индекса.
+            </summary>
+            <param name="limit"> кол-во пользователей, которых хочется получить информацию </param>
+            <param name="offset"> индекс, начиная с которого будет выведена информация по пользователям </param>
+            <returns></returns>
+        </member>
+        <member name="M:MessageService.Controllers.UserController.GenerateEmail(System.String)">
+            <summary>
+            Метод предназначен для генерации уникального Email пользователя.
+            </summary>
+            <param name="letters"> буквы латинского алфавита в разном регистре </param>
+            <returns> возвращается сгенерированный Email</returns>
+        </member>
+        <member name="M:MessageService.Controllers.UserController.GenerateName(System.String)">
+            <summary>
+            Генерация имени пользователя.
+            </summary>
+            <param name="letters"> буквы латинского алфавита в разном регистре  </param>
+            <returns> имя пользователя </returns>
+        </member>
+        <member name="M:MessageService.Controllers.UserController.GenerateMessage(System.String)">
+            <summary>
+            Генерация сообщений пользователей.
+            </summary>
+            <param name="letters"> буквы латинского алфавита в разном регистре </param>
+            <returns> сообщение </returns>
+        </member>
+        <member name="T:MessageService.JsonWork">
+            <summary>
+            Данный класс преднзначен для сериализации и десериализации.
+            </summary>
+        </member>
+        <member name="M:MessageService.JsonWork.Serializer``1(System.Collections.Generic.List{``0},System.String)">
+            <summary>
+            Метод сериализует список объектов в файл с расширением json.
+            </summary>
+            <typeparam name="T"> тип, сериализуемого объекта </typeparam>
+            <param name="list"> список нужного типа </param>
+            <param name="path"> путь к файлу </param>
+        </member>
+        <member name="M:MessageService.JsonWork.Deserializer``1(System.String)">
+            <summary>
+            Метод десериализует данные из файла с расширением json.
+            </summary>
+            <typeparam name="T">тип, десериализуемого объекта </typeparam>
+            <param name="path"> путь к файлу </param>
+            <returns></returns>
+        </member>
+        <member name="T:MessageService.Models.MessageOfUser">
+            <summary>
+            Данный класс содержит информацию о сообщениях пользователей.
+            </summary>
+        </member>
+        <member name="P:MessageService.Models.MessageOfUser.Subject">
+            <summary>
+            Тема сообщения.
+            </summary>
+        </member>
+        <member name="P:MessageService.Models.MessageOfUser.Message">
+            <summary>
+            Само сообщение.
+            </summary>
+        </member>
+        <member name="P:MessageService.Models.MessageOfUser.SenderId">
+            <summary>
+            Email отправителя.
+            </summary>
+        </member>
+        <member name="P:MessageService.Models.MessageOfUser.ReceiverId">
+            <summary>
+            Email получателя.
+            </summary>
+        </member>
+        <member name="T:MessageService.Models.User">
+            <summary>
+            Класс содержит информацию о пользователях.
+            </summary>
+        </member>
+        <member name="P:MessageService.Models.User.UserName">
+            <summary>
+            Имя пользователя.
+            </summary>
+        </member>
+        <member name="P:MessageService.Models.User.Email">
+            <summary>
+            Email пользователя.
+            </summary>
+        </member>
+        <member name="M:MessageService.Models.User.CompareTo(MessageService.Models.User)">
+            <summary>
+            Метод предназначен для сравнения двух пользователей по Email.
+            </summary>
+            <param name="user">ссылка на объект типа User </param>
+            <returns> результатом сравнения ялвются 1, -1 или 0 </returns>
+        </member>
+        <member name="M:MessageService.Models.User.GetLowerLetters(System.String)">
+            <summary>
+            Метод предназначен для получения Email в нижнем регистре для корректной сортировки.
+            </summary>
+            <param name="email">Email конкретного пользователя </param>
+            <returns> строка с буквами в нижнем регистре </returns>
+        </member>
+        <member name="T:MessageService.Program">
+            <summary>
+            Класс, с которого начинается работа программы.
+            </summary>
+        </member>
+        <member name="M:MessageService.Program.Main(System.String[])">
+            <summary>
+            Точка входа в программу.
+            </summary>
+            <param name="args"> аргумент командной строки </param>
+        </member>
+        <member name="M:MessageService.Program.CreateHostBuilder(System.String[])">
+            <summary>
+            Cоздание и настройка объекта построителя.
+            </summary>
+            <param name="args"> аргумент командной строки </param>
+            <returns> абстракция инициализации программы </returns>
+        </member>
+        <member name="T:MessageService.Startup">
+            <summary>
+            Класс вляется входной точкой в приложение ASP.NET Core.
+            Производит конфигурацию приложения, настраивает сервисы, которые приложение будет использовать.
+            Устанавливает компоненты для обработки запроса или middleware.
+            </summary>
+        </member>
+        <member name="M:MessageService.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Многократно используемый компонент, обеспечивающий функциональность приложения.
+            </summary>
+            <param name="services"> cлужбы регистрируются в и используются в приложении с помощью внедрения зависимостей (DI) </param>
+        </member>
+        <member name="M:MessageService.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            Этот метод вызывается средой выполнения. Используйте этот метод для настройки конвейера HTTP-запросов.
+            </summary>
+            <param name="app"> механизмы для настройки конвейера запросов приложения </param>
+            <param name="env"> предоставляет сведения о среде веб-размещения, в которой выполняется приложение </param>
+        </member>
+    </members>
+</doc>

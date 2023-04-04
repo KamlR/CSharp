@@ -1,0 +1,52 @@
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Fractals\Fractals\bin\Debug\net5.0-windows\Fractals.exe
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Fractals\Fractals\bin\Debug\net5.0-windows\Fractals.deps.json
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Fractals\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.json
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Fractals\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.dev.json
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Fractals\Fractals\bin\Debug\net5.0-windows\Fractals.dll
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Fractals\Fractals\bin\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Fractals\Fractals\bin\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Fractals\Fractals\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Fractals\Fractals\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Fractals\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.AssemblyReference.cache
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Fractals\Fractals\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Fractals\Fractals\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Fractals\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.cache
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Fractals\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.lref
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Fractals\Fractals\obj\Debug\net5.0-windows\App.baml
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Fractals\Fractals\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Fractals\Fractals\obj\Debug\net5.0-windows\Fractals.g.resources
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Fractals\Fractals\obj\Debug\net5.0-windows\Fractals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Fractals\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfoInputs.cache
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Fractals\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfo.cs
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Fractals\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Fractals\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.CopyComplete
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Fractals\Fractals\obj\Debug\net5.0-windows\Fractals.dll
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Fractals\Fractals\obj\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Fractals\Fractals\obj\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Fractals\Fractals\obj\Debug\net5.0-windows\Fractals.genruntimeconfig.cache
+C:\Users\Karina\Documents\Education\Coding\Peer\Fractals\Fractals\bin\Debug\net5.0-windows\Fractals.exe
+C:\Users\Karina\Documents\Education\Coding\Peer\Fractals\Fractals\bin\Debug\net5.0-windows\Fractals.deps.json
+C:\Users\Karina\Documents\Education\Coding\Peer\Fractals\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.json
+C:\Users\Karina\Documents\Education\Coding\Peer\Fractals\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.dev.json
+C:\Users\Karina\Documents\Education\Coding\Peer\Fractals\Fractals\bin\Debug\net5.0-windows\Fractals.dll
+C:\Users\Karina\Documents\Education\Coding\Peer\Fractals\Fractals\bin\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Karina\Documents\Education\Coding\Peer\Fractals\Fractals\bin\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Karina\Documents\Education\Coding\Peer\Fractals\Fractals\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\Karina\Documents\Education\Coding\Peer\Fractals\Fractals\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Karina\Documents\Education\Coding\Peer\Fractals\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.AssemblyReference.cache
+C:\Users\Karina\Documents\Education\Coding\Peer\Fractals\Fractals\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Karina\Documents\Education\Coding\Peer\Fractals\Fractals\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Karina\Documents\Education\Coding\Peer\Fractals\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.cache
+C:\Users\Karina\Documents\Education\Coding\Peer\Fractals\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.lref
+C:\Users\Karina\Documents\Education\Coding\Peer\Fractals\Fractals\obj\Debug\net5.0-windows\App.baml
+C:\Users\Karina\Documents\Education\Coding\Peer\Fractals\Fractals\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Karina\Documents\Education\Coding\Peer\Fractals\Fractals\obj\Debug\net5.0-windows\Fractals.g.resources
+C:\Users\Karina\Documents\Education\Coding\Peer\Fractals\Fractals\obj\Debug\net5.0-windows\Fractals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karina\Documents\Education\Coding\Peer\Fractals\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfoInputs.cache
+C:\Users\Karina\Documents\Education\Coding\Peer\Fractals\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfo.cs
+C:\Users\Karina\Documents\Education\Coding\Peer\Fractals\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Documents\Education\Coding\Peer\Fractals\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.CopyComplete
+C:\Users\Karina\Documents\Education\Coding\Peer\Fractals\Fractals\obj\Debug\net5.0-windows\Fractals.dll
+C:\Users\Karina\Documents\Education\Coding\Peer\Fractals\Fractals\obj\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Karina\Documents\Education\Coding\Peer\Fractals\Fractals\obj\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Karina\Documents\Education\Coding\Peer\Fractals\Fractals\obj\Debug\net5.0-windows\Fractals.genruntimeconfig.cache

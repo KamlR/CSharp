@@ -1,0 +1,32 @@
+C:\Users\Karina\Documents\Обучение\Прога\Matrix Calcus\Matrix Calcus\bin\Debug\net5.0\Matrix Calcus.exe
+C:\Users\Karina\Documents\Обучение\Прога\Matrix Calcus\Matrix Calcus\bin\Debug\net5.0\Matrix Calcus.deps.json
+C:\Users\Karina\Documents\Обучение\Прога\Matrix Calcus\Matrix Calcus\bin\Debug\net5.0\Matrix Calcus.runtimeconfig.json
+C:\Users\Karina\Documents\Обучение\Прога\Matrix Calcus\Matrix Calcus\bin\Debug\net5.0\Matrix Calcus.runtimeconfig.dev.json
+C:\Users\Karina\Documents\Обучение\Прога\Matrix Calcus\Matrix Calcus\bin\Debug\net5.0\Matrix Calcus.dll
+C:\Users\Karina\Documents\Обучение\Прога\Matrix Calcus\Matrix Calcus\bin\Debug\net5.0\ref\Matrix Calcus.dll
+C:\Users\Karina\Documents\Обучение\Прога\Matrix Calcus\Matrix Calcus\bin\Debug\net5.0\Matrix Calcus.pdb
+C:\Users\Karina\Documents\Обучение\Прога\Matrix Calcus\Matrix Calcus\obj\Debug\net5.0\Matrix Calcus.csproj.AssemblyReference.cache
+C:\Users\Karina\Documents\Обучение\Прога\Matrix Calcus\Matrix Calcus\obj\Debug\net5.0\Matrix Calcus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karina\Documents\Обучение\Прога\Matrix Calcus\Matrix Calcus\obj\Debug\net5.0\Matrix Calcus.AssemblyInfoInputs.cache
+C:\Users\Karina\Documents\Обучение\Прога\Matrix Calcus\Matrix Calcus\obj\Debug\net5.0\Matrix Calcus.AssemblyInfo.cs
+C:\Users\Karina\Documents\Обучение\Прога\Matrix Calcus\Matrix Calcus\obj\Debug\net5.0\Matrix Calcus.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Documents\Обучение\Прога\Matrix Calcus\Matrix Calcus\obj\Debug\net5.0\Matrix Calcus.dll
+C:\Users\Karina\Documents\Обучение\Прога\Matrix Calcus\Matrix Calcus\obj\Debug\net5.0\ref\Matrix Calcus.dll
+C:\Users\Karina\Documents\Обучение\Прога\Matrix Calcus\Matrix Calcus\obj\Debug\net5.0\Matrix Calcus.pdb
+C:\Users\Karina\Documents\Обучение\Прога\Matrix Calcus\Matrix Calcus\obj\Debug\net5.0\Matrix Calcus.genruntimeconfig.cache
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Matrix Calcus\Matrix Calcus\Matrix Calcus\bin\Debug\net5.0\Matrix Calcus.exe
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Matrix Calcus\Matrix Calcus\Matrix Calcus\bin\Debug\net5.0\Matrix Calcus.deps.json
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Matrix Calcus\Matrix Calcus\Matrix Calcus\bin\Debug\net5.0\Matrix Calcus.runtimeconfig.json
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Matrix Calcus\Matrix Calcus\Matrix Calcus\bin\Debug\net5.0\Matrix Calcus.runtimeconfig.dev.json
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Matrix Calcus\Matrix Calcus\Matrix Calcus\bin\Debug\net5.0\Matrix Calcus.dll
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Matrix Calcus\Matrix Calcus\Matrix Calcus\bin\Debug\net5.0\ref\Matrix Calcus.dll
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Matrix Calcus\Matrix Calcus\Matrix Calcus\bin\Debug\net5.0\Matrix Calcus.pdb
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Matrix Calcus\Matrix Calcus\Matrix Calcus\obj\Debug\net5.0\Matrix Calcus.csproj.AssemblyReference.cache
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Matrix Calcus\Matrix Calcus\Matrix Calcus\obj\Debug\net5.0\Matrix Calcus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Matrix Calcus\Matrix Calcus\Matrix Calcus\obj\Debug\net5.0\Matrix Calcus.AssemblyInfoInputs.cache
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Matrix Calcus\Matrix Calcus\Matrix Calcus\obj\Debug\net5.0\Matrix Calcus.AssemblyInfo.cs
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Matrix Calcus\Matrix Calcus\Matrix Calcus\obj\Debug\net5.0\Matrix Calcus.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Matrix Calcus\Matrix Calcus\Matrix Calcus\obj\Debug\net5.0\Matrix Calcus.dll
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Matrix Calcus\Matrix Calcus\Matrix Calcus\obj\Debug\net5.0\ref\Matrix Calcus.dll
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Matrix Calcus\Matrix Calcus\Matrix Calcus\obj\Debug\net5.0\Matrix Calcus.pdb
+C:\Users\Karina\Documents\Обучение\Прога\Пир грейд\Matrix Calcus\Matrix Calcus\Matrix Calcus\obj\Debug\net5.0\Matrix Calcus.genruntimeconfig.cache
