@@ -1,0 +1,15 @@
+/Users/karinamavletova/Projects/TextAnalysisPro/TextAnalysisPro/bin/Debug/net7.0/TextAnalysisPro
+/Users/karinamavletova/Projects/TextAnalysisPro/TextAnalysisPro/bin/Debug/net7.0/TextAnalysisPro.deps.json
+/Users/karinamavletova/Projects/TextAnalysisPro/TextAnalysisPro/bin/Debug/net7.0/TextAnalysisPro.runtimeconfig.json
+/Users/karinamavletova/Projects/TextAnalysisPro/TextAnalysisPro/bin/Debug/net7.0/TextAnalysisPro.dll
+/Users/karinamavletova/Projects/TextAnalysisPro/TextAnalysisPro/bin/Debug/net7.0/TextAnalysisPro.pdb
+/Users/karinamavletova/Projects/TextAnalysisPro/TextAnalysisPro/obj/Debug/net7.0/TextAnalysisPro.csproj.AssemblyReference.cache
+/Users/karinamavletova/Projects/TextAnalysisPro/TextAnalysisPro/obj/Debug/net7.0/TextAnalysisPro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karinamavletova/Projects/TextAnalysisPro/TextAnalysisPro/obj/Debug/net7.0/TextAnalysisPro.AssemblyInfoInputs.cache
+/Users/karinamavletova/Projects/TextAnalysisPro/TextAnalysisPro/obj/Debug/net7.0/TextAnalysisPro.AssemblyInfo.cs
+/Users/karinamavletova/Projects/TextAnalysisPro/TextAnalysisPro/obj/Debug/net7.0/TextAnalysisPro.csproj.CoreCompileInputs.cache
+/Users/karinamavletova/Projects/TextAnalysisPro/TextAnalysisPro/obj/Debug/net7.0/TextAnalysisPro.dll
+/Users/karinamavletova/Projects/TextAnalysisPro/TextAnalysisPro/obj/Debug/net7.0/refint/TextAnalysisPro.dll
+/Users/karinamavletova/Projects/TextAnalysisPro/TextAnalysisPro/obj/Debug/net7.0/TextAnalysisPro.pdb
+/Users/karinamavletova/Projects/TextAnalysisPro/TextAnalysisPro/obj/Debug/net7.0/TextAnalysisPro.genruntimeconfig.cache
+/Users/karinamavletova/Projects/TextAnalysisPro/TextAnalysisPro/obj/Debug/net7.0/ref/TextAnalysisPro.dll
